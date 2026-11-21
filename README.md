@@ -1,16 +1,24 @@
-## Hi there 👋
+# Landon Sosebee
 
-<!--
-**landonsosebee/landonsosebee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aerospace Engineering student at **Georgia Tech**. I like design work that ends up as real hardware: CAD, drawings, then building and testing it.
 
-Here are some ideas to get you started:
+- 🚀 Propulsion sub-team, **Georgia Tech Experimental Rocketry (GTXR)**
+- 🔧 Engineering intern at **DES**: design and fabrication of production hardware
+- 🎯 Interests: aircraft and spacecraft design, propulsion, hands-on prototyping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+| Project | What it shows |
+|---|---|
+| [**Model Rocket: Precision Apogee**](https://github.com/landonsosebee/model-rocket-apogee) | 3D-printed rocket with an altimeter payload. OpenRocket sim vs. flight data, and why it fell 49 ft short of prediction |
+| [**Hand-Launched Balsa Glider**](https://github.com/landonsosebee/balsa-glider) | Elliptical-wing glider. CG testing, video-tracked flight analysis, 4× the required distance |
+| [**3D-Printed Rose**](https://github.com/landonsosebee/3d-printed-rose) | SolidWorks surface modeling, threaded printed joint, CAD vs. printed tolerance analysis |
+| [**Prescription Pigeon**](https://github.com/landonsosebee/prescription-pigeon) | Prescription-delivery robotic bird (team concept). I integrated the full assembly and owned the back half: motors, packaging, 14-sheet drawing package |
+
+## Tools
+**CAD:** SolidWorks · OpenRocket  
+**Analysis:** MATLAB · Excel  
+**Fabrication:** 3D printing · hand fabrication · shop tools
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/landonjsosebee/) · landonjsosebee@gmail.com
