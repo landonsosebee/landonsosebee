@@ -2,9 +2,9 @@
 
 Aerospace Engineering student at **Georgia Tech**. I like design work that ends up as real hardware: CAD, drawings, then building and testing it.
 
-- 🚀 Propulsion sub-team, **Georgia Tech Experimental Rocketry (GTXR)**
-- 🔧 Engineering intern at **DES**: design and fabrication of production hardware
-- 🎯 Interests: aircraft and spacecraft design, propulsion, hands-on prototyping
+- Propulsion sub-team, **Georgia Tech Experimental Rocketry (GTXR)**
+- Engineering intern at **DES**: design and fabrication of production hardware
+- Interests: aircraft and spacecraft design, propulsion, hands-on prototyping
 
 ## Projects
 
