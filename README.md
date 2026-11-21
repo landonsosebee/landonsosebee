@@ -14,6 +14,7 @@ Aerospace Engineering student at **Georgia Tech**. I like design work that ends 
 | [**Hand-Launched Balsa Glider**](https://github.com/landonsosebee/balsa-glider) | Elliptical-wing glider. CG testing, video-tracked flight analysis, 4× the required distance |
 | [**3D-Printed Rose**](https://github.com/landonsosebee/3d-printed-rose) | SolidWorks surface modeling, threaded printed joint, CAD vs. printed tolerance analysis |
 | [**Prescription Pigeon**](https://github.com/landonsosebee/prescription-pigeon) | Prescription-delivery robotic bird (team concept). I integrated the full assembly and owned the back half: motors, packaging, 14-sheet drawing package |
+| [**Wind Tunnel Cp Analysis**](https://github.com/landonsosebee/wind-tunnel-cp-analysis) | MATLAB analysis of airfoil pressure data: Cp distributions and an integrated lift curve |
 
 ## Tools
 **CAD:** SolidWorks · OpenRocket  
