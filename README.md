@@ -17,9 +17,9 @@ Aerospace Engineering student at **Georgia Tech**. I like design work that ends 
 | [**Wind Tunnel Cp Analysis**](https://github.com/landonsosebee/wind-tunnel-cp-analysis) | MATLAB analysis of airfoil pressure data: Cp distributions and an integrated lift curve |
 
 ## Tools
-**CAD:** SolidWorks · OpenRocket  
-**Analysis:** MATLAB · Excel  
-**Fabrication:** 3D printing · hand fabrication · shop tools
+**CAD & Documentation:** SolidWorks (part, surface, and assembly modeling) · engineering drawings & BOMs · SolidWorks PDM
+**Simulation & Analysis:** MATLAB · OpenRocket · Excel
+**Fabrication:** 3D printing · band saw · angle grinder · wire harnessing (crimping, heat shrink) · calipers
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/landonjsosebee/) · landonjsosebee@gmail.com
